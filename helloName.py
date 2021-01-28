@@ -1,5 +1,5 @@
 # Uses a variable to greet
 # Author: Stefanie Steffens
 
-name = "Andrew"
+name = "Stefanie"
 print ('Hello ' + name)

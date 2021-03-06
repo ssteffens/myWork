@@ -1,4 +1,4 @@
-# Functions
+# Functions -  Cubes (Kubikzahl)
 # Author: Stefanie Steffens
 
 

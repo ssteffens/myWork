@@ -20,5 +20,5 @@ def readFile():
 contents = readFile()
 countE = contents.count("e") + contents.count("E")           # https://www.w3schools.com/python/ref_string_count.asp
                                                             # https://stackoverflow.com/questions/32414205/count-multiple-letters-in-string-python
-print(contents)
+# print(contents)
 print(countE)

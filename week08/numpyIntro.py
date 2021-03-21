@@ -22,7 +22,7 @@ print(numbers)
 randomNumbers = np.random.randint(100, 200, 5)
 print(randomNumbers)
 
-# Normal Distribution: 
+# Random number generator - Normal Distribution: 
 normDistribution = np.random.normal(size = 10)
 print(normDistribution)
 

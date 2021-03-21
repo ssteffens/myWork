@@ -1,5 +1,5 @@
 # This program prints out a list of salaries consisting of 10 random numbers
-# AUthor: Stefanie Steffens
+# Author: Stefanie Steffens
 
 import numpy as np
 salaries = np.random.randint(20000, 80000, 10)

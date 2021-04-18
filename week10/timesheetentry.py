@@ -1,4 +1,4 @@
-# Lab week 10 - Objects
+# Lab week 10 - 1-3 - Objects
 # Author: Stefanie Steffens
 
 import datetime as dt

@@ -15,9 +15,4 @@ inst2.last = "Beatty"
 person = inst
 
 print(person.getfullname())
-
-str1 = "blah"
-str2 = str1
-str1 += "with bells on top"
-
-print(str2)
+ 

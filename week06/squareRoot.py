@@ -1,8 +1,8 @@
 # This program reads in a positive floating-point number and outputs and approximation of its square root.
 # Author: Stefanie Steffens
 
-numberZ = 3
-numberQ = 1.5
+numberZ = 20
+numberQ = 4
 
 sqrt = numberQ + ((numberZ - numberQ ** 2)/(2*numberQ))
 
